@@ -1,0 +1,52 @@
+* {
+    background-color: rgb(197, 197, 197);
+
+}
+
+.title {
+    background-color: #383838;
+    color: white;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 3.2rem;
+    border: 4px solid black;
+    text-align: center;
+    padding: 6px;
+    margin: 50px;
+}
+
+main h2 {
+    font-size: 2.4rem;
+}
+
+p {
+    font-size: 1.8rem;
+}
+
+.hondalog {
+    margin-top: 50px;
+}
+
+#logo {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 40px;
+}
+
+#civic73 {
+    width: 450px;
+    height: 320px;
+}
+
+#best {
+    margin-right: 70px;
+    margin-top: 70px;
+    font-size: 25px;
+}
+
+#tuning {
+    margin-right: 70px;
+    margin-top: 30px;
+    font-size: 25px;
+}

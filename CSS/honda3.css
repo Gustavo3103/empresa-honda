@@ -1,0 +1,29 @@
+* {
+    background-color: rgb(197, 197, 197);
+
+}
+
+.title {
+    background-color: #383838;
+    color: white;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 3.2rem;
+    border: 4px solid black;
+    text-align: center;
+    padding: 6px;
+    margin: 50px;
+}
+
+.tun {
+    font-size: 2.4rem;
+}
+
+p {
+    font-size: 1.8rem;
+}
+
+#civictun{
+    font-size: 2rem;
+}
